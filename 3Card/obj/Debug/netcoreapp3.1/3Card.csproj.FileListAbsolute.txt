@@ -1,0 +1,13 @@
+C:\Users\Norde\source\repos\3Card\3Card\bin\Debug\netcoreapp3.1\3Card.exe
+C:\Users\Norde\source\repos\3Card\3Card\bin\Debug\netcoreapp3.1\3Card.deps.json
+C:\Users\Norde\source\repos\3Card\3Card\bin\Debug\netcoreapp3.1\3Card.runtimeconfig.json
+C:\Users\Norde\source\repos\3Card\3Card\bin\Debug\netcoreapp3.1\3Card.runtimeconfig.dev.json
+C:\Users\Norde\source\repos\3Card\3Card\bin\Debug\netcoreapp3.1\3Card.dll
+C:\Users\Norde\source\repos\3Card\3Card\bin\Debug\netcoreapp3.1\3Card.pdb
+C:\Users\Norde\source\repos\3Card\3Card\obj\Debug\netcoreapp3.1\3Card.csprojAssemblyReference.cache
+C:\Users\Norde\source\repos\3Card\3Card\obj\Debug\netcoreapp3.1\3Card.AssemblyInfoInputs.cache
+C:\Users\Norde\source\repos\3Card\3Card\obj\Debug\netcoreapp3.1\3Card.AssemblyInfo.cs
+C:\Users\Norde\source\repos\3Card\3Card\obj\Debug\netcoreapp3.1\3Card.csproj.CoreCompileInputs.cache
+C:\Users\Norde\source\repos\3Card\3Card\obj\Debug\netcoreapp3.1\3Card.dll
+C:\Users\Norde\source\repos\3Card\3Card\obj\Debug\netcoreapp3.1\3Card.pdb
+C:\Users\Norde\source\repos\3Card\3Card\obj\Debug\netcoreapp3.1\3Card.genruntimeconfig.cache

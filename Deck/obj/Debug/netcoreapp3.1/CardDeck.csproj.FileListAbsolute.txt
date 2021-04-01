@@ -1,0 +1,4 @@
+C:\Users\Norde\source\repos\3Card\Deck\obj\Debug\netcoreapp3.1\CardDeck.csprojAssemblyReference.cache
+C:\Users\Norde\source\repos\3Card\Deck\obj\Debug\netcoreapp3.1\CardDeck.AssemblyInfoInputs.cache
+C:\Users\Norde\source\repos\3Card\Deck\obj\Debug\netcoreapp3.1\CardDeck.AssemblyInfo.cs
+C:\Users\Norde\source\repos\3Card\Deck\obj\Debug\netcoreapp3.1\CardDeck.csproj.CoreCompileInputs.cache
